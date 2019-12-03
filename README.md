@@ -11,3 +11,8 @@ The Mongolian language is the official language of Mongolia and both the most wi
 
 ## License
 This resource is available under the Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License. Read more about this license from https://creativecommons.org/licenses/by-sa/4.0/
+
+## Reference
+Please cite the following article if you find this resource useful: 
+
+Batsuren, Khuyagbaatar, Amarsanaa Ganbold, and Altangerel Chagnaa. "Building The Mongolian WordNet." In Proceedings of 10th Global Wordnet Conference (GWC). pp 238, 2019.
