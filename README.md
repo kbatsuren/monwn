@@ -15,4 +15,4 @@ This resource is available under the Attribution-ShareAlike 4.0 International (C
 ## Reference
 Please cite the following article if you find this resource useful: 
 
-Batsuren, Khuyagbaatar, Amarsanaa Ganbold, and Altangerel Chagnaa. "Building The Mongolian WordNet." In Proceedings of 10th Global Wordnet Conference (GWC). pp 238, 2019.
+Batsuren, Khuyagbaatar, Amarsanaa Ganbold, Altangerel Chagnaa, and Fausto Giunchiglia. "Building The Mongolian WordNet." In Proceedings of 10th Global Wordnet Conference (GWC). pp 238, 2019.
