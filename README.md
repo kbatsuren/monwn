@@ -13,20 +13,6 @@ The Mongolian language is the official language of Mongolia and both the most wi
 This resource has same format, used by the Open Multilingual WordNet. You also can find other wordnets from the following webpage:
 http://compling.hss.ntu.edu.sg/omw/
 
-# name␉lang␉url␉license
-offset-pos␉lang:lemma␉word
-offset-pos␉lang:def␉sid␉definition
-offset-pos␉lang:exe␉sid␉example
-...
-name	the name of the project
-lang	the iso 3 letter code for the name
-url	the url of the project
-license	a short name for the license
-offset	the Princeton WordNet 3.0 offset 8 digit offset
-pos	one of [a,v,n,r] (we treat 's' as 'a')
-lemma	the lemma (word separator normalized to ' ')
-sid a	the sub id of the definition/example (starting from 0)
-
 ## License
 This resource is available under the Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License. Read more about this license from https://creativecommons.org/licenses/by-sa/4.0/
 
