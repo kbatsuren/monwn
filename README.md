@@ -10,7 +10,7 @@ The Mongolian language is the official language of Mongolia and both the most wi
 - 213 examples
 
 ## Format
-This resource has same format, used by the Open Multilingual WordNet. You also can find other wordnets from the following webpage:
+This resource has same format, used by the Open Multilingual WordNet. You also can find wordnets for other languages from the following webpage:
 http://compling.hss.ntu.edu.sg/omw/
 
 ## License
