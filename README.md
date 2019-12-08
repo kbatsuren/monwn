@@ -16,6 +16,14 @@ http://compling.hss.ntu.edu.sg/omw/
 ## License
 This resource is available under the Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License. Read more about this license from https://creativecommons.org/licenses/by-sa/4.0/
 
+## Creators
+People worked on this project are:
+- Altanger Chagnaa: the project leader and research;
+- Amarsanaa Ganbold: research, translation, and validation;
+- Khuyagbaatar Batsuren: research and development;
+- Oyundari Nyamdavaa: translation and validation;
+- Erdenebileg Batbaatar: research and development.
+
 ## Reference
 Please cite the following article if you find this resource useful: 
 
