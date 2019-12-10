@@ -18,7 +18,7 @@ This resource is available under the Attribution-ShareAlike 4.0 International (C
 
 ## Creators
 People worked on this project are:
-- Altanger Chagnaa: the project leader and research;
+- Altangerel Chagnaa: the project leader and research;
 - Amarsanaa Ganbold: research, translation, and validation;
 - Khuyagbaatar Batsuren: research and development;
 - Oyundari Nyamdavaa: translation and validation;
