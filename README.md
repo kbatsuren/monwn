@@ -22,6 +22,7 @@ People worked on this project are:
 - Amarsanaa Ganbold: research, translation, and validation;
 - Khuyagbaatar Batsuren: research and development;
 - Oyundari Nyamdavaa: translation and validation;
+- Zoljargal Munkhjargal: translation and validation;
 - Erdenebileg Batbaatar: research and development.
 
 ## Reference
